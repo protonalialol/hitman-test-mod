@@ -5,6 +5,7 @@
 	"name": "Test Mod",
 	"description": "A pay-to-play mod",
 	"authors": ["Mei-Mei"],
+	"contentFolders": ["content"],
 	"frameworkVersion": "2.33.23",
 	"updateCheck": "https://github.com/protonalialol/hitman-test-mod/releases/latest/download/updates.json"
 }
