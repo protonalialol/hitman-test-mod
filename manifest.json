@@ -1,6 +1,6 @@
 {
 	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
-	"version": "2.3.3",
+	"version": "2.3.4",
 	"id": "meimei.firsttestingmod",
 	"name": "Pay to Play",
 	"description": "A pay-to-play mod",

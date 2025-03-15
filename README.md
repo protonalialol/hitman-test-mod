@@ -6,4 +6,4 @@ A pay-to-play mod
 
 ---
 
-`meimei.firsttestingmod` v2.3.3, by Mei-Mei. This README was automatically generated from the mod's manifest.
+`meimei.firsttestingmod` v2.3.4, by Mei-Mei. This README was automatically generated from the mod's manifest.
