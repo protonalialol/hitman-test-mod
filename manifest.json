@@ -5,7 +5,6 @@
 	"name": "Pay to Play",
 	"description": "A pay-to-play mod",
 	"authors": ["Mei-Mei"],
-	"contentFolders": ["content"],
 	"frameworkVersion": "2.33.23",
 	"localisation": {
 		"english": {
