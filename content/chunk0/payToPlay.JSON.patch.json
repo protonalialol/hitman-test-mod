@@ -9,7 +9,7 @@
 		},
 		{
 			"op": "replace",
-			"path": "/languages/xx/F52D6513",
+			"path": "/languages/en/F52D6513",
 			"value": "PRESS {ACCEPT} TO PAY"
 		}
 	]
