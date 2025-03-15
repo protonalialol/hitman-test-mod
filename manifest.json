@@ -7,5 +7,10 @@
 	"authors": ["Mei-Mei"],
 	"contentFolders": ["content"],
 	"frameworkVersion": "2.33.23",
+	"localisation": {
+		"english": {
+			"F52D6513": "PRESS {ACCEPT} TO PAY"
+		}
+	},
 	"updateCheck": "https://github.com/protonalialol/hitman-test-mod/releases/latest/download/updates.json"
 }
