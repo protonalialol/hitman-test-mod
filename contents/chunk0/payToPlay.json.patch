@@ -1,0 +1,16 @@
+{
+    "file": "008D33DE8C75CACB",
+    "type": "JSON",
+    "patch": [
+        {
+            "op": "replace",
+            "path": "/languages/xx/F52D6513",
+            "value": "PRESS {ACCEPT} TO PAY"
+        },
+        {
+            "op": "replace",
+            "path": "/languages/xx/F52D6513",
+            "value": "PRESS {ACCEPT} TO PAY"
+        }
+    ]
+}
