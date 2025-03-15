@@ -6,9 +6,11 @@
 	"description": "A pay-to-play mod",
 	"authors": ["Mei-Mei"],
 	"frameworkVersion": "2.33.23",
-	"localisation": {
-		"english": {
-			"F52D6513": "PRESS {ACCEPT} TO PAY"
+	"localisationOverrides": {
+		"008D33DE8C75CACB": {
+			"english": {
+				"F52D6513": "PRESS {ACCEPT} TO PAY"
+			}
 		}
 	},
 	"updateCheck": "https://github.com/protonalialol/hitman-test-mod/releases/latest/download/updates.json"
